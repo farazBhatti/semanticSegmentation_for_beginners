@@ -1,0 +1,4 @@
+python3 inference.py -i images/saif -ht 178 -wt 63
+
+
+
