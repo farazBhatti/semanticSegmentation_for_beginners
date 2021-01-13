@@ -1,5 +1,5 @@
 # Semantic Segmentation for beginners using DeepLab V3+
-This repository is directed towards people who are intersted in getting into Computer Vision using Deep Learning, having only some theoratical knowldge of machine learning but less to no experience with programming and github. Code is tested on tensorFlow 1.13.1 .
+This repository is directed towards people who are intersted in getting into Computer Vision using Deep Learning, having only some theoratical knowledge of machine learning but less to no experience with programming and github. Code is tested on tensorFlow 1.13.1 .
 
 # Pre-trained Model
 Code automatically makes new directory 'deeplab_model' and starts downloading DeepLab V3 model. No need to download model manually.
