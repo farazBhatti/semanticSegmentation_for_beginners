@@ -104,8 +104,7 @@ def label_to_color_image(label):
 
 parser = argparse.ArgumentParser(description='Deeplab Segmentation')
 parser.add_argument('-i', '--input_dir', type=str, required=True,help='Directory to read Images. (required)')
-#parser.add_argument('-ht', '--height', type=int, required=True,help='height of person. (required)')
-#parser.add_argument('-wt', '--weight', type=int, required=True,help='weight of person. (required)')
+
 
 args=parser.parse_args()
 
